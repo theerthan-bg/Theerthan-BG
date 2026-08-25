@@ -1,36 +1,13 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/theerthan-bg/Theerthan-BG/main/hacker-profile.gif" width="700" alt="Theerthan BG Cyber Security Profile">
+<img src="https://github.com/theerthan-bg/Theerthan-BG/blob/main/hacker-profile.gif?raw=true" width="700" alt="Theerthan BG Cyber Security Animation">
 
 <br><br>
 
 # 👋 Hi, I'm **Theerthan BG**
 
-### 🎓 Engineering Student &nbsp;•&nbsp; 💻 Developer &nbsp;•&nbsp; 🛡️ Cyber Security Enthusiast
+### 🎓 Engineering Student • 💻 Developer • 🛡️ Cyber Security Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Ethical+Hacking+%7C+Cyber+Security;Python+%7C+Java+%7C+Web+Development;AI+%26+Computer+Vision;Always+Learning+%7C+Always+Building;Turning+Ideas+Into+Real+Projects" alt="Typing Animation">
-
-<br><br>
-
-<a href="https://github.com/theerthan-bg">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/theerthan-bg-82b716408">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:theerthangowda724@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://theerthanupdates.blogspot.com/?m=1">
-<img src="https://img.shields.io/badge/Website-Visit-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=theerthan-bg&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Ethical+Hacking+%7C+Cyber+Security;Python+%7C+Java+%7C+Web+Development;AI+%26+Computer+Vision;Always+Learning+%7C+Always+Building" alt="Typing Animation">
 
 </div>
 
