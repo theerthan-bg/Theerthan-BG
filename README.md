@@ -10,6 +10,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Ethical+Hacking+%7C+Cyber+Security;Python+%7C+Java+%7C+Web+Development;AI+%26+Computer+Vision;Always+Learning+%7C+Always+Building" alt="Typing Animation">
 
 </div>
+<div align="center">
+
+<img src="./1019.gif" width="600" alt="Theerthan BG Cyber Security Animation">
+
+</div>
 
 ---
 
