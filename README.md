@@ -12,7 +12,7 @@
 </div>
 <div align="center">
 
-<img src="./1019.gif" width="600" alt="Theerthan BG Cyber Security Animation">
+
 
 </div>
 
